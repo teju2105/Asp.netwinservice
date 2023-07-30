@@ -1,0 +1,6 @@
+<appSettings>
+  <add key="SmtpServer" value="your_smtp_server_here " />
+  <add key="SmtpPort" value="587" />
+  <add key="SmtpUsername" value="your_username_here" />
+  <add key="SmtpPassword" value="your_password_here" />
+</appSettings>
